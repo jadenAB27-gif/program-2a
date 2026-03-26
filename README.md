@@ -1,9 +1,10 @@
-# program-2-c-
+# program-2a
 C module 2
-EX NO:2-c) Addition of two numbers using function. 
-Date:19/10/2025 
-Name: VASANTH S 
-Ref no: 25017538
+EX NO:2-a) Addition of two numbers using function. 
+
+Date: 26/03/26
+Name: JADEN SAMUEL ABRAHAM
+Ref no: 25003451
 
 AIM: To write a C program to add two numbers using functions .
 
